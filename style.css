@@ -126,8 +126,15 @@ h1{
 }
 
 footer {
-    background-color: #04255D;
-    width: 100vw;
+    background-color: #016eaf;
+    border-style: solid;
+    border-color: #cacaca;
+    border-width: 2px;
+    width: 100%;
+}
+footer p {
+    font-size: 20px;
+    color: white;
 }
 footer a {
     padding-bottom: 5px;
@@ -135,8 +142,10 @@ footer a {
     padding-left: 5px;
     padding-right: 5px;
     color: #DFE7F2;
-    font-size: 25px;
-    font-size: 1.5vw;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #cacaca;
+    border-width: 2px;
 }
 
 #subtitle { 
