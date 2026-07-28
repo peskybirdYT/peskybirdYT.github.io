@@ -58,8 +58,22 @@ ul {
     font-size: clamp(16px, 2.5vw, 24px);
     padding: 20px 20px 20px 40px;
 }
-h1{
+h1 { 
     font-size:clamp(36px,6vw,65px);
+}
+h4 {
+    color:#FFFF00;
+    text-shadow: 1px 1px black
+}
+button {
+    background-color: #853a8f;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
 }
 
 /* Classes */
