@@ -189,4 +189,7 @@ footer a {
     #Navbar img{
         width: 100%;
     }
+    footer {
+        font-size: 10%;
+    }
 }
